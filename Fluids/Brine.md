@@ -1,0 +1,1 @@
+Can be created by mixing [[Rock Salt]] and Water in the [[Chemical Reactor]]
