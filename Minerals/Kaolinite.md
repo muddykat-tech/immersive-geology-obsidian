@@ -1,0 +1,1 @@
+Used to create Refractory Bricks; a crucial component for the creation of the [[Crude Bloomery]] and the [[Reverberation Furnace]]

@@ -1,0 +1,1 @@
+Sourced from [[Acanthite]], [[Chalcocite]], [[Cobaltite]] and [[Unobtania]]

@@ -1,0 +1,1 @@
+Can crush [[Slag]] into [[Grit]]

@@ -1,0 +1,300 @@
+{
+  "main": {
+    "id": "aef337e584f009b1",
+    "type": "split",
+    "children": [
+      {
+        "id": "46369e9c0aa9a624",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2021601022d3bff5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Minerals/Acanthite.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Acanthite"
+            }
+          },
+          {
+            "id": "c57909b29fd4d82b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Minerals/Acanthite.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Acanthite"
+            }
+          },
+          {
+            "id": "3f6fa05c898a8c50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Minerals/Fluorite.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Fluorite"
+            }
+          },
+          {
+            "id": "7ec02fbca7d7807d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Minerals/Kaolinite.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kaolinite"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c270dbf0e3e906d4",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b60498cfd717dea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "718206a45e1a864a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "84ae555825bff17e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0c73f2624aac3a8f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fc6555b865b5fecb",
+    "type": "split",
+    "children": [
+      {
+        "id": "06ee32fd79e12cba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "63cd7716e68e280b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "78051c4d286326cb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "65e082bc634bae41",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5b608ae100e03a9a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "floating": {
+    "id": "236f820e0e5f37e4",
+    "type": "floating",
+    "children": [
+      {
+        "id": "973c4ee83243e2d3",
+        "type": "window",
+        "children": [
+          {
+            "id": "e64bb9884bb22621",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "4ef0b43d9319c5db",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Metals/Silver.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Silver"
+                }
+              },
+              {
+                "id": "62ccfe7cbff106ba",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Metals/Aluminium.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Aluminium"
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "vertical",
+        "x": 1899,
+        "y": 26,
+        "width": 1534,
+        "height": 1407,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "4ef0b43d9319c5db",
+  "lastOpenFiles": [
+    "Metals/Aluminium.md",
+    "Metals/Silver.md",
+    "Minerals/Kaolinite.md",
+    "Minerals/Acanthite.md",
+    "Minerals/Zircon.md",
+    "Minerals/Wolframite.md",
+    "Minerals/Vanadinite.md",
+    "Minerals/Uraninite.md",
+    "Minerals/Unobtania.md",
+    "Minerals/Ullmannite.md",
+    "Minerals/Thorite.md",
+    "Minerals/Thorianite.md",
+    "Minerals/Sphalerite.md",
+    "Minerals/Smithsonite.md",
+    "Minerals/Scheelite.md",
+    "Minerals/Pyrolusite.md",
+    "Minerals/Pyrite.md",
+    "Minerals/Monazite.md",
+    "Neodynium.md",
+    "Minerals/Magnetite.md",
+    "Metals/Neodymium.md",
+    "Minerals/Galena.md",
+    "Minerals/Hematite.md",
+    "IG Multiblocks/Reverberation Furnace.md",
+    "IG Multiblocks/Crude Bloomery.md",
+    "Minerals/Ilmenite.md",
+    "Minerals",
+    "Advanced Processing.canvas",
+    "Metals",
+    "Basic Processing.canvas",
+    "Intermediate Processing.canvas",
+    "IE Multiblocks",
+    "Items/Fine Dust",
+    "Items/Crushed Ore",
+    "Items/Dirty Crushed Ore",
+    "Items/Crystal",
+    "Items/Slag",
+    "Items/Compound Dust",
+    "Items/Grit"
+  ]
+}

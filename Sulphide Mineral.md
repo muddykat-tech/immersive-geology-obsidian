@@ -1,0 +1,8 @@
+- [[Acanthite]]
+- [[Chalcocite]]
+- [[Galena]]
+- [[Sphalerite]]
+- [[Chalcopryite]]
+- [[Pyrite]]
+- [[Molybdenite]]
+- [[Cobaltite]]

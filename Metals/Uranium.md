@@ -1,0 +1,1 @@
+Sourced from [[Uraninite]] and [[Thorite]]
