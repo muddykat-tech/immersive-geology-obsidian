@@ -1,1 +1,8 @@
-{}
+{
+	"nodes":[
+		{"id":"7a82591710932724","x":-1040,"y":-360,"width":400,"height":400,"type":"file","file":"Bronze Work Hammer.md"},
+		{"id":"e68e169482527c42","x":-400,"y":40,"width":400,"height":400,"type":"file","file":"IE Multiblocks/IE Crude Blast Furnace.md"},
+		{"id":"e5c8985b6a46b62a","x":-400,"y":-760,"width":400,"height":400,"type":"file","file":"IG Multiblocks/Reverberation Furnace.md"}
+	],
+	"edges":[]
+}

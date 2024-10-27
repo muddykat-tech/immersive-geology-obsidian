@@ -14,13 +14,13 @@ Can be used to create [[Neodymium]] Compound Dust by reacting with [[Sodium Hydr
 
 ## Acid to Acid
 
-Can be used to create [[Chromium]] (Hydrochloric) Acid Slurry by reacting with [[Chromium]] ([[Nitric Acid]]) Slurry.
+Can be used to create [[Chromium Chloride]] by reacting with [[Chromium Nitrate]].
 
 ## Mineral Dusts
 
-Can be used to create [[Silver]] Acid Slurry by reacting with [[Acanthite]] Dust, this process produces a byproduct of [[Platinum]] Compound Dust.
+Can be used to create [[Silver Chloride]] by reacting with [[Acanthite]] Dust, this process produces a byproduct of [[Platinum]] Compound Dust.
 
-Can be used to create [[Titanium]] Acid Slurry by reacting with [[Anatase]] Dust.
+Can be used to create [[Titanium Chloride]] Acid Slurry by reacting with [[Anatase]] Dust.
 
 Can be used to create [[Copper]] Acid Slurry by reacting with [[Chalcocite]] Dust, this process produces a byproduct of [[Platinum]] Compound Dust.
 

@@ -4,67 +4,57 @@
     "type": "split",
     "children": [
       {
-        "id": "46369e9c0aa9a624",
+        "id": "676084c4c956d0c3",
         "type": "tabs",
         "children": [
           {
-            "id": "2021601022d3bff5",
+            "id": "ece01d03ef3b1093",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Minerals/Acanthite.md",
-                "mode": "source",
-                "source": false
+                "file": "Basic Processing.canvas",
+                "viewState": {
+                  "x": 346,
+                  "y": -344,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "Acanthite"
+              "icon": "lucide-layout-dashboard",
+              "title": "Basic Processing"
             }
           },
           {
-            "id": "c57909b29fd4d82b",
+            "id": "87c992b7ec031633",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Minerals/Acanthite.md",
-                "mode": "source",
-                "source": false
+                "file": "Basic Processing.canvas",
+                "viewState": {
+                  "x": 148.70866141732301,
+                  "y": -134.85039370078755,
+                  "zoom": -0.4542588090765626
+                }
               },
-              "icon": "lucide-file",
-              "title": "Acanthite"
+              "icon": "lucide-layout-dashboard",
+              "title": "Basic Processing"
             }
           },
           {
-            "id": "3f6fa05c898a8c50",
+            "id": "a8ea2de42c8e7fa9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Minerals/Fluorite.md",
-                "mode": "source",
-                "source": false
+                "file": "Alloy Kiln Bronze Recipe.png"
               },
-              "icon": "lucide-file",
-              "title": "Fluorite"
-            }
-          },
-          {
-            "id": "7ec02fbca7d7807d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Minerals/Kaolinite.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Kaolinite"
+              "icon": "lucide-image",
+              "title": "Alloy Kiln Bronze Recipe"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -136,16 +126,17 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Alloy Kiln Bronze Recipe.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Alloy Kiln Bronze Recipe"
             }
           },
           {
@@ -188,8 +179,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,100 +191,50 @@
       "command-palette:Open command palette": false
     }
   },
-  "floating": {
-    "id": "236f820e0e5f37e4",
-    "type": "floating",
-    "children": [
-      {
-        "id": "973c4ee83243e2d3",
-        "type": "window",
-        "children": [
-          {
-            "id": "e64bb9884bb22621",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "4ef0b43d9319c5db",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Metals/Silver.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Silver"
-                }
-              },
-              {
-                "id": "62ccfe7cbff106ba",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Metals/Aluminium.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Aluminium"
-                }
-              }
-            ],
-            "currentTab": 1
-          }
-        ],
-        "direction": "vertical",
-        "x": 1899,
-        "y": 26,
-        "width": 1534,
-        "height": 1407,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "4ef0b43d9319c5db",
+  "active": "a8ea2de42c8e7fa9",
   "lastOpenFiles": [
-    "Metals/Aluminium.md",
-    "Metals/Silver.md",
-    "Minerals/Kaolinite.md",
-    "Minerals/Acanthite.md",
-    "Minerals/Zircon.md",
-    "Minerals/Wolframite.md",
-    "Minerals/Vanadinite.md",
-    "Minerals/Uraninite.md",
-    "Minerals/Unobtania.md",
-    "Minerals/Ullmannite.md",
-    "Minerals/Thorite.md",
-    "Minerals/Thorianite.md",
-    "Minerals/Sphalerite.md",
-    "Minerals/Smithsonite.md",
-    "Minerals/Scheelite.md",
-    "Minerals/Pyrolusite.md",
-    "Minerals/Pyrite.md",
-    "Minerals/Monazite.md",
-    "Neodynium.md",
-    "Minerals/Magnetite.md",
-    "Metals/Neodymium.md",
-    "Minerals/Galena.md",
-    "Minerals/Hematite.md",
-    "IG Multiblocks/Reverberation Furnace.md",
-    "IG Multiblocks/Crude Bloomery.md",
-    "Minerals/Ilmenite.md",
-    "Minerals",
-    "Advanced Processing.canvas",
-    "Metals",
     "Basic Processing.canvas",
+    "Alloy Kiln Bronze Recipe.png",
     "Intermediate Processing.canvas",
-    "IE Multiblocks",
-    "Items/Fine Dust",
-    "Items/Crushed Ore",
-    "Items/Dirty Crushed Ore",
-    "Items/Crystal",
-    "Items/Slag",
-    "Items/Compound Dust",
-    "Items/Grit"
+    "Images/Bronze Work Hammer Recipe.png",
+    "Bronze Work Hammer.md",
+    "Meta Groups/Mineral Groups/Basic Mineral Groups.md",
+    "Meta Groups/Mineral Groups/Sulphide Mineral.md",
+    "Meta Groups/Mineral Groups",
+    "Meta Groups/Ingots",
+    "Meta Groups/Alloys/Advanced Alloys.md",
+    "Meta Groups/Alloys/Intermediate Alloys.md",
+    "Meta Groups/Alloys/Basic Alloys.md",
+    "Metals/Electrum.md",
+    "Minerals/Kaolinite.md",
+    "Meta Groups/Alloys",
+    "Advanced Processing.canvas",
+    "Untitled.canvas",
+    "Meta Groups",
+    "IE Multiblocks/IE Crusher.md",
+    "IE Multiblocks/IE Alloy Kiln.md",
+    "IE Multiblocks/IE Crude Blast Furnace.md",
+    "Slurry/Chromium/Chromium Nitrate.md",
+    "Slurry/Titanium/Titanium Chloride.md",
+    "Fluids/Hydrochloric Acid.md",
+    "IG Multiblocks/Chemical Reactor.md",
+    "Fluids/Nitric Acid.md",
+    "Slurry/Chromium/Chromium Chloride.md",
+    "Fluids/Sulfuric Acid.md",
+    "Fluids/Sulfur Dioxide.md",
+    "IG Multiblocks/Reverberation Furnace.md",
+    "Metals/Iron.md",
+    "Minerals/Chalcopryite.md",
+    "Minerals/Chromite.md",
+    "Metals/Chromium.md",
+    "Minerals/Wolframite.md",
+    "Slurry/Chromium",
+    "Slurry/Titanium",
+    "Slurry/Silver",
+    "Slurry",
+    "Images/Refractory Brick Block Recipe.png",
+    "Images/Crude Bloomery Multiblock.png",
+    "Minerals",
+    "Metals"
   ]
 }

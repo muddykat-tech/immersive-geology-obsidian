@@ -1,8 +1,8 @@
 {
 	"nodes":[
-		{"id":"96642362a4ac336b","x":-1020,"y":-220,"width":279,"height":120,"type":"file","file":"Fluids/Mantle Fluid.md"},
-		{"id":"cb72ca87e6abd88c","x":-1020,"y":-60,"width":355,"height":120,"type":"file","file":"IG Multiblocks/Centrifuge.md"},
-		{"id":"8e0aabd3b07ded58","type":"file","file":"IG Multiblocks/Core Drill.md","x":-1020,"y":-380,"width":260,"height":120}
+		{"id":"96642362a4ac336b","type":"file","file":"Fluids/Mantle Fluid.md","x":-1020,"y":-220,"width":279,"height":120},
+		{"id":"8e0aabd3b07ded58","type":"file","file":"IG Multiblocks/Core Drill.md","x":-1020,"y":-380,"width":260,"height":120},
+		{"id":"cb72ca87e6abd88c","type":"file","file":"IG Multiblocks/Centrifuge.md","x":-1020,"y":-60,"width":355,"height":120}
 	],
 	"edges":[]
 }

@@ -1,0 +1,1 @@
+Created in the [[Chemical Reactor]] from [[Chromium Nitrate]] and [[Hydrochloric Acid]] in the [[Chemical Reactor]]

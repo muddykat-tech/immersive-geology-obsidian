@@ -1,1 +1,1 @@
-Created through the use of [[Iron]] in the [[IE Blast Furnace]]
+Created through the use of [[Iron]] in the [[IE Crude Blast Furnace]]

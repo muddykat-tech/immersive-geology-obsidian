@@ -1,4 +1,22 @@
 {
-	"nodes":[],
-	"edges":[]
+	"nodes":[
+		{"id":"5683eae5d2dd6e81","type":"file","file":"IG Multiblocks/Crude Bloomery.md","x":-680,"y":-400,"width":500,"height":680},
+		{"id":"37625bd3e0e67e9f","type":"file","file":"Minerals/Kaolinite.md","x":-1220,"y":-320,"width":400,"height":160},
+		{"id":"e4c4081d0d25accb","type":"file","file":"Items/Stone Work Hammer.md","x":-630,"y":440,"width":400,"height":400},
+		{"id":"6844045a91b861c7","type":"file","file":"Intermediate Processing.canvas","x":1860,"y":-260,"width":400,"height":400},
+		{"id":"7e572d64217c1981","type":"file","file":"Bronze Work Hammer.md","x":1260,"y":-260,"width":400,"height":400},
+		{"id":"059d4a7e88216ba1","x":-570,"y":-900,"width":281,"height":260,"type":"text","text":"# Create Basic Ingots\n- [[Gold]]\n- [[Copper]]\n- [[Tin]]\n- [[Lead]]\n- [[Zinc]]"},
+		{"id":"4a6b6109c5215fac","type":"file","file":"Meta Groups/Alloys/Basic Alloys.md","x":520,"y":-260,"width":400,"height":400},
+		{"id":"584a2be96e6fe406","type":"file","file":"IE Multiblocks/IE Alloy Kiln.md","x":40,"y":-185,"width":260,"height":250}
+	],
+	"edges":[
+		{"id":"8dfbc029f2071bf0","fromNode":"5683eae5d2dd6e81","fromSide":"right","toNode":"584a2be96e6fe406","toSide":"left"},
+		{"id":"acd0cb4e35201855","fromNode":"584a2be96e6fe406","fromSide":"right","toNode":"4a6b6109c5215fac","toSide":"left"},
+		{"id":"b968050ac652793a","fromNode":"37625bd3e0e67e9f","fromSide":"right","toNode":"5683eae5d2dd6e81","toSide":"left"},
+		{"id":"be6e50f39fbd1929","fromNode":"e4c4081d0d25accb","fromSide":"top","toNode":"5683eae5d2dd6e81","toSide":"bottom","label":"Used to Form"},
+		{"id":"8b07bdc6ba9d0f44","fromNode":"4a6b6109c5215fac","fromSide":"right","toNode":"7e572d64217c1981","toSide":"left","label":"Bronze is used to create Next Tier"},
+		{"id":"e40a7c402965883c","fromNode":"e4c4081d0d25accb","fromSide":"right","toNode":"584a2be96e6fe406","toSide":"bottom","label":"Used to Form"},
+		{"id":"e2eb584f4576f229","fromNode":"7e572d64217c1981","fromSide":"right","toNode":"6844045a91b861c7","toSide":"left"},
+		{"id":"ccf7fcbdabc6f715","fromNode":"5683eae5d2dd6e81","fromSide":"top","toNode":"059d4a7e88216ba1","toSide":"bottom"}
+	]
 }
