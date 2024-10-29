@@ -1,0 +1,39 @@
+{
+	"nodes":[
+		{"id":"135f6daf7056f8a5","type":"file","file":"Meta Groups/Mineral Groups/Sulphide Mineral.md","x":-1120,"y":-1206,"width":400,"height":400},
+		{"id":"d9e1f6f4d034d26e","type":"file","file":"Meta Groups/Metal Groups/Early Reverberation Furnace Processing.md","x":-1120,"y":-779,"width":400,"height":400},
+		{"id":"e5c8985b6a46b62a","type":"file","file":"IG Multiblocks/Reverberation Furnace.md","x":-660,"y":-779,"width":400,"height":400},
+		{"id":"e68e169482527c42","type":"file","file":"IE Multiblocks/IE Crude Blast Furnace.md","x":-60,"y":-1192,"width":400,"height":370},
+		{"id":"7a82591710932724","type":"file","file":"Items/Hammers/Bronze Work Hammer.md","x":-260,"y":-353,"width":400,"height":400},
+		{"id":"32586e0dfbff90a9","type":"file","file":"Items/Hammers/IE Engineers Hammer.md","x":870,"y":-1162,"width":400,"height":312},
+		{"id":"19f18b644640108a","type":"file","file":"Items/Ingots/Iron Ingot.md","x":494,"y":-1041,"width":219,"height":68},
+		{"id":"d75871679557bbf9","type":"file","file":"Meta Groups/Dirty Crushed Ore.md","x":-660,"y":-1583,"width":400,"height":94},
+		{"id":"49c05005a2f83342","type":"file","file":"Meta Groups/Crushed Ore.md","x":-660,"y":-1423,"width":400,"height":120},
+		{"id":"f80dceec83852461","type":"file","file":"Metals/Steel.md","x":870,"y":-1363,"width":400,"height":137},
+		{"id":"7d276981893aa600","type":"file","file":"Meta Groups/Mineral Groups/Early Iron Sources.md","x":-60,"y":-1662,"width":400,"height":253},
+		{"id":"d50c298c47aebb79","type":"file","file":"Late Game Processing.canvas","x":1920,"y":-1250,"width":400,"height":400},
+		{"id":"798e7467bda3b05b","type":"file","file":"IE Multiblocks/IE Coke Oven.md","x":302,"y":-197,"width":255,"height":89},
+		{"id":"71386524b48e41a5","type":"text","text":"# Coal","x":364,"y":-13,"width":132,"height":60},
+		{"id":"d22b99e08554b0a4","type":"text","text":"# Treated Wood","x":870,"y":-197,"width":275,"height":86}
+	],
+	"edges":[
+		{"id":"6fcea2ea483a6500","fromNode":"7a82591710932724","fromSide":"left","toNode":"e5c8985b6a46b62a","toSide":"bottom","label":"Forms"},
+		{"id":"70045b8e180c106e","fromNode":"7a82591710932724","fromSide":"right","toNode":"e68e169482527c42","toSide":"bottom","label":"Forms"},
+		{"id":"3f3308259d534d60","fromNode":"135f6daf7056f8a5","fromSide":"right","toNode":"e5c8985b6a46b62a","toSide":"top","label":"Process using"},
+		{"id":"506707d96b545f73","fromNode":"e5c8985b6a46b62a","fromSide":"right","toNode":"e68e169482527c42","toSide":"left"},
+		{"id":"6414b6e763bf753d","fromNode":"e68e169482527c42","fromSide":"right","toNode":"19f18b644640108a","toSide":"left"},
+		{"id":"ffe5bfdc292c1496","fromNode":"49c05005a2f83342","fromSide":"left","toNode":"135f6daf7056f8a5","toSide":"top","label":"If Mineral is a"},
+		{"id":"645a1887a4285d03","fromNode":"d75871679557bbf9","fromSide":"bottom","toNode":"49c05005a2f83342","toSide":"top","label":"2x"},
+		{"id":"59afc2cf6335640c","fromNode":"7a82591710932724","fromSide":"right","toNode":"798e7467bda3b05b","toSide":"left"},
+		{"id":"28562eb19875240a","fromNode":"798e7467bda3b05b","fromSide":"top","toNode":"e68e169482527c42","toSide":"bottom","label":"Fuels"},
+		{"id":"6a132779bcc7afbf","fromNode":"71386524b48e41a5","fromSide":"top","toNode":"798e7467bda3b05b","toSide":"bottom","label":"Fuels"},
+		{"id":"da6429417a31090b","fromNode":"49c05005a2f83342","fromSide":"bottom","toNode":"e68e169482527c42","toSide":"left","label":"Otherwise Direct "},
+		{"id":"f1883876489b9489","fromNode":"798e7467bda3b05b","fromSide":"right","toNode":"d22b99e08554b0a4","toSide":"left","label":"Can be used to access"},
+		{"id":"fb97f942efb6e102","fromNode":"19f18b644640108a","fromSide":"right","toNode":"32586e0dfbff90a9","toSide":"left"},
+		{"id":"0d9b6db2700186bc","fromNode":"e5c8985b6a46b62a","fromSide":"left","toNode":"d9e1f6f4d034d26e","toSide":"right"},
+		{"id":"df86dd5f2a5781f5","fromNode":"19f18b644640108a","fromSide":"top","toNode":"f80dceec83852461","toSide":"left"},
+		{"id":"19f027e042b21ae6","fromNode":"f80dceec83852461","fromSide":"right","toNode":"d50c298c47aebb79","toSide":"left"},
+		{"id":"9b557414ee711f69","fromNode":"32586e0dfbff90a9","fromSide":"right","toNode":"d50c298c47aebb79","toSide":"left","label":"Hammer and Steel is used to access the next Tier"},
+		{"id":"611c7c1323d36a64","fromNode":"7d276981893aa600","fromSide":"left","toNode":"d75871679557bbf9","toSide":"right"}
+	]
+}

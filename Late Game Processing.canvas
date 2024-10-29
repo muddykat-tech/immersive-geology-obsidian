@@ -1,0 +1,37 @@
+{
+	"nodes":[
+		{"id":"4b02c06617c41a3b","type":"file","file":"Metals/Manganese.md","x":-3440,"y":-191,"width":400,"height":138},
+		{"id":"04e192dabe0a844c","type":"file","file":"Minerals/Molybdenite.md","x":-4060,"y":-998,"width":400,"height":118},
+		{"id":"f3e1f02c7c732c09","type":"file","file":"Meta Groups/Dirty Crushed Ore.md","x":-4060,"y":-1150,"width":400,"height":99},
+		{"id":"61096881a6c901e3","type":"file","file":"Meta Groups/Crushed Ore.md","x":-4060,"y":-1280,"width":400,"height":100},
+		{"id":"55b91d5cf264431b","type":"file","file":"Meta Groups/Metal Oxide.md","x":-3205,"y":-1469,"width":400,"height":114},
+		{"id":"04e0c556c5553e92","type":"file","file":"IG Multiblocks/Industrial Ball Mill.md","x":-2740,"y":-1390,"width":400,"height":70},
+		{"id":"ecba193770ffd830","type":"file","file":"IE Multiblocks/IE Crusher.md","x":-2740,"y":-1502,"width":400,"height":66},
+		{"id":"35770ebab6ddb42d","x":-2260,"y":-1451,"width":400,"height":79,"type":"file","file":"IG Multiblocks/Pelletizer.md"},
+		{"id":"f0b6fb967b17360a","type":"file","file":"IG Multiblocks/Reverberation Furnace.md","x":-1800,"y":-1519,"width":400,"height":216},
+		{"id":"c1bc8ada7b8d0bae","type":"file","file":"IG Multiblocks/Rotary Kiln.md","x":-3660,"y":-1443,"width":400,"height":63},
+		{"id":"8f87f7ac46de4b4e","type":"file","file":"Metals/Molybdenum.md","x":-1800,"y":-1215,"width":400,"height":115},
+		{"id":"19f5478ba6c9bf4f","type":"file","file":"Items/Hammers/IE Engineers Hammer.md","x":-3605,"y":-1280,"width":400,"height":400},
+		{"id":"368931d344acd43f","type":"file","file":"Meta Groups/Dirty Crushed Ore.md","x":-4360,"y":-777,"width":400,"height":117},
+		{"id":"50fb80bf3b49560f","type":"file","file":"IG Multiblocks/Gravity Separator.md","x":-4360,"y":-592,"width":400,"height":131},
+		{"id":"0472c15d6f12e006","type":"file","file":"Meta Groups/Crushed Ore.md","x":-3920,"y":-780,"width":400,"height":124},
+		{"id":"ad67b2d9433d2b09","type":"file","file":"IE Multiblocks/IE Crusher.md","x":-4820,"y":-751,"width":400,"height":66},
+		{"id":"c01ddb441cb7dcd7","type":"file","file":"Metals/Iron.md","x":-3440,"y":-620,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"bd8bc392dfb25f7d","fromNode":"ad67b2d9433d2b09","fromSide":"right","toNode":"368931d344acd43f","toSide":"left"},
+		{"id":"d241a303fb5b3b74","fromNode":"368931d344acd43f","fromSide":"bottom","toNode":"50fb80bf3b49560f","toSide":"top"},
+		{"id":"bcdca87f8d050915","fromNode":"50fb80bf3b49560f","fromSide":"right","toNode":"0472c15d6f12e006","toSide":"bottom"},
+		{"id":"0f78b1bf616c1489","fromNode":"04e192dabe0a844c","fromSide":"top","toNode":"f3e1f02c7c732c09","toSide":"bottom"},
+		{"id":"25e6301cb8aa61cc","fromNode":"f3e1f02c7c732c09","fromSide":"top","toNode":"61096881a6c901e3","toSide":"bottom"},
+		{"id":"dea430929e9f9fb6","fromNode":"55b91d5cf264431b","fromSide":"right","toNode":"ecba193770ffd830","toSide":"left"},
+		{"id":"500553da9051df11","fromNode":"55b91d5cf264431b","fromSide":"right","toNode":"04e0c556c5553e92","toSide":"left"},
+		{"id":"ea5ba15a9e730c9a","fromNode":"04e0c556c5553e92","fromSide":"right","toNode":"35770ebab6ddb42d","toSide":"left"},
+		{"id":"4f1ef4b64f9e1f33","fromNode":"ecba193770ffd830","fromSide":"right","toNode":"35770ebab6ddb42d","toSide":"left"},
+		{"id":"ad28d63367b43063","fromNode":"35770ebab6ddb42d","fromSide":"right","toNode":"f0b6fb967b17360a","toSide":"left"},
+		{"id":"a627a447faf65105","fromNode":"61096881a6c901e3","fromSide":"top","toNode":"c1bc8ada7b8d0bae","toSide":"left"},
+		{"id":"2c82b992c40dc116","fromNode":"c1bc8ada7b8d0bae","fromSide":"right","toNode":"55b91d5cf264431b","toSide":"left"},
+		{"id":"0d96fc44dab021c0","fromNode":"19f5478ba6c9bf4f","fromSide":"top","toNode":"c1bc8ada7b8d0bae","toSide":"bottom"},
+		{"id":"539c212fbddb0aba","fromNode":"f0b6fb967b17360a","fromSide":"bottom","toNode":"8f87f7ac46de4b4e","toSide":"top"}
+	]
+}

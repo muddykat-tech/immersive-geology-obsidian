@@ -1,0 +1,1 @@
+Abstract for general recipes

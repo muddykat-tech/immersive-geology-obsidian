@@ -1,0 +1,1 @@
+A Shapeless Craft of the **2** instances of the [[Dirty Crushed Ore]] will result in **1** instance of [[Crushed Ore]] 

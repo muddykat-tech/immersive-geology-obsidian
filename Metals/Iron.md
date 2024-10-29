@@ -1,7 +1,6 @@
 Iron can be sourced from the following minerals:
 - [[Chalcopryite]]
 - [[Chromite]]
-- [[Reverberation Furnace]]
 - [[Hematite]]
 - [[Ilmenite]]
 - [[Magnetite]]

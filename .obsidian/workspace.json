@@ -11,50 +11,35 @@
             "id": "ece01d03ef3b1093",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Basic Processing.canvas",
-                "viewState": {
-                  "x": 346,
-                  "y": -344,
-                  "zoom": 0
-                }
+                "file": "Meta Groups/Abstract Processing/Early Game Crushing.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Basic Processing"
+              "icon": "lucide-file",
+              "title": "Early Game Crushing"
             }
           },
           {
-            "id": "87c992b7ec031633",
+            "id": "8b2131a5a4309177",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Basic Processing.canvas",
+                "file": "Mid-Game Processing.canvas",
                 "viewState": {
-                  "x": 148.70866141732301,
-                  "y": -134.85039370078755,
-                  "zoom": -0.4542588090765626
+                  "x": 611.2065573770489,
+                  "y": -713.6450819672131,
+                  "zoom": -0.48627124922589077
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Basic Processing"
-            }
-          },
-          {
-            "id": "a8ea2de42c8e7fa9",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Alloy Kiln Bronze Recipe.png"
-              },
-              "icon": "lucide-image",
-              "title": "Alloy Kiln Bronze Recipe"
+              "title": "Mid-Game Processing"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -126,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Alloy Kiln Bronze Recipe.png",
+                "file": "Mid-Game Processing.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +121,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Alloy Kiln Bronze Recipe"
+              "title": "Backlinks for Mid-Game Processing"
             }
           },
           {
@@ -191,13 +176,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a8ea2de42c8e7fa9",
+  "active": "8b2131a5a4309177",
   "lastOpenFiles": [
-    "Basic Processing.canvas",
-    "Alloy Kiln Bronze Recipe.png",
-    "Intermediate Processing.canvas",
+    "Late Game Processing.canvas",
+    "Mid-Game Processing.canvas",
+    "End Game Processing.canvas",
+    "Early Game Processing.canvas",
+    "Meta Groups/Abstract Processing/Early Game Refinement.canvas",
+    "Meta Groups/Abstract Processing/Early Game Washing.md",
+    "Meta Groups/Abstract Processing/Early Game Crushing.md",
+    "Meta Groups/Abstract Processing",
+    "Meta Groups/Mineral.md",
+    "Meta Groups/Metal Oxide.md",
+    "Meta Groups/Metal Groups/Early Reverberation Furnace Processing.md",
+    "Items/Hammers/IE Engineers Hammer.md",
+    "Images/IE Hammer Recipe.png",
+    "Items/Hammers/Stone Work Hammer.md",
+    "Meta Groups/Metal Groups",
+    "Items/Dirty Crushed Ore/Dirty Crushed Cassiterite.md",
+    "Items/Hammers/Bronze Work Hammer.md",
+    "Items/Hammers",
+    "Meta Groups/Mineral Groups/Early Iron Sources.md",
+    "IE Multiblocks/IE Coke Oven.md",
+    "Meta Groups/Dirty Crushed Ore.md",
+    "Meta Groups/Crushed Ore.md",
+    "Items/Ingots/Iron Ingot.md",
+    "Items/Crushed Ore/Crushed Pyrite.md",
+    "Images/Alloy Kiln Bronze Recipe.png",
+    "Items/Dirty Crushed Ore/Dirty Crushed Pyrite.md",
+    "Items/Dirty Crushed Ore/Dirty Crushed Cuprite.md",
     "Images/Bronze Work Hammer Recipe.png",
-    "Bronze Work Hammer.md",
     "Meta Groups/Mineral Groups/Basic Mineral Groups.md",
     "Meta Groups/Mineral Groups/Sulphide Mineral.md",
     "Meta Groups/Mineral Groups",
@@ -208,33 +216,12 @@
     "Metals/Electrum.md",
     "Minerals/Kaolinite.md",
     "Meta Groups/Alloys",
-    "Advanced Processing.canvas",
-    "Untitled.canvas",
     "Meta Groups",
     "IE Multiblocks/IE Crusher.md",
-    "IE Multiblocks/IE Alloy Kiln.md",
-    "IE Multiblocks/IE Crude Blast Furnace.md",
-    "Slurry/Chromium/Chromium Nitrate.md",
-    "Slurry/Titanium/Titanium Chloride.md",
-    "Fluids/Hydrochloric Acid.md",
-    "IG Multiblocks/Chemical Reactor.md",
-    "Fluids/Nitric Acid.md",
-    "Slurry/Chromium/Chromium Chloride.md",
-    "Fluids/Sulfuric Acid.md",
-    "Fluids/Sulfur Dioxide.md",
-    "IG Multiblocks/Reverberation Furnace.md",
-    "Metals/Iron.md",
-    "Minerals/Chalcopryite.md",
-    "Minerals/Chromite.md",
-    "Metals/Chromium.md",
-    "Minerals/Wolframite.md",
     "Slurry/Chromium",
     "Slurry/Titanium",
     "Slurry/Silver",
-    "Slurry",
     "Images/Refractory Brick Block Recipe.png",
-    "Images/Crude Bloomery Multiblock.png",
-    "Minerals",
-    "Metals"
+    "Images/Crude Bloomery Multiblock.png"
   ]
 }

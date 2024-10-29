@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"bfea3318627b93e0","type":"file","file":"Fluids/Mantle Fluid.md","x":-177,"y":-60,"width":279,"height":120},
+		{"id":"19cd9b58c39e05a3","type":"file","file":"IG Multiblocks/Centrifuge.md","x":-177,"y":100,"width":355,"height":120},
+		{"id":"499c75f481f1fbc9","type":"file","file":"Fluids/Hydrochloric Acid.md","x":720,"y":-183,"width":400,"height":400},
+		{"id":"e6e2d45848e2d9e0","type":"file","file":"Fluids/Nitric Acid.md","x":280,"y":-180,"width":400,"height":400},
+		{"id":"e8ec35dfc214d2bb","type":"text","text":"Secondary Method to create Hastelloy","x":580,"y":-280,"width":250,"height":60},
+		{"id":"414bc721d8bd4c11","type":"file","file":"IG Multiblocks/Core Drill.md","x":-177,"y":-220,"width":260,"height":120}
+	],
+	"edges":[]
+}

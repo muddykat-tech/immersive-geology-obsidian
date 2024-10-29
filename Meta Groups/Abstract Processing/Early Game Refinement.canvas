@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"bf015ef335e3acd5","type":"file","file":"Meta Groups/Mineral.md","x":-780,"y":-180,"width":400,"height":119},
+		{"id":"9f2ab3180f79eaf3","type":"file","file":"Meta Groups/Abstract Processing/Early Game Crushing.md","x":-300,"y":-320,"width":400,"height":400},
+		{"id":"f285a0f8e3083145","type":"file","file":"Meta Groups/Dirty Crushed Ore.md","x":220,"y":-177,"width":400,"height":114},
+		{"id":"52b03a6fd9f59a58","type":"file","file":"Meta Groups/Abstract Processing/Early Game Washing.md","x":700,"y":-320,"width":400,"height":400},
+		{"id":"902b770b8b9292b7","type":"file","file":"Meta Groups/Crushed Ore.md","x":1220,"y":-320,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"557c4014419809ed","fromNode":"bf015ef335e3acd5","fromSide":"right","toNode":"9f2ab3180f79eaf3","toSide":"left"},
+		{"id":"5a35f17dec84f285","fromNode":"9f2ab3180f79eaf3","fromSide":"right","toNode":"f285a0f8e3083145","toSide":"left"},
+		{"id":"0942feafde6a1fdc","fromNode":"f285a0f8e3083145","fromSide":"right","toNode":"52b03a6fd9f59a58","toSide":"left"},
+		{"id":"10adf2491d563934","fromNode":"52b03a6fd9f59a58","fromSide":"right","toNode":"902b770b8b9292b7","toSide":"left"}
+	]
+}
