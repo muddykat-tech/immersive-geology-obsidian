@@ -4,42 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "676084c4c956d0c3",
+        "id": "1616cfe9b22e090a",
         "type": "tabs",
         "children": [
           {
-            "id": "ece01d03ef3b1093",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Meta Groups/Abstract Processing/Early Game Crushing.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Early Game Crushing"
-            }
-          },
-          {
-            "id": "8b2131a5a4309177",
+            "id": "5ec98f877420d8ad",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Mid-Game Processing.canvas",
+                "file": "Late Game Processing.canvas",
                 "viewState": {
-                  "x": 611.2065573770489,
-                  "y": -713.6450819672131,
-                  "zoom": -0.48627124922589077
+                  "x": -1632.8937258396077,
+                  "y": -1681.5325178911548,
+                  "zoom": -0.8773326301587779
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Mid-Game Processing"
+              "title": "Late Game Processing"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mid-Game Processing.canvas",
+                "file": "Late Game Processing.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +106,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Mid-Game Processing"
+              "title": "Backlinks for Late Game Processing"
             }
           },
           {
@@ -176,18 +161,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8b2131a5a4309177",
+  "active": "5ec98f877420d8ad",
   "lastOpenFiles": [
+    "End Game Processing.canvas",
     "Late Game Processing.canvas",
     "Mid-Game Processing.canvas",
-    "End Game Processing.canvas",
     "Early Game Processing.canvas",
-    "Meta Groups/Abstract Processing/Early Game Refinement.canvas",
-    "Meta Groups/Abstract Processing/Early Game Washing.md",
-    "Meta Groups/Abstract Processing/Early Game Crushing.md",
+    "Fluids/Hydrochloric Acid.md",
+    "Slurry/Chromium/Chromium Nitrate.md",
+    "Slurry/Chromium/Chromium Chloride.md",
+    "Meta Groups/Abstract Processing/Early/Early Game Refinement.canvas",
+    "Images/Stainless Steel Work Hammer Recipe.png",
+    "Meta Groups/Machine Groups/IE Machines.md",
+    "Meta Groups/Machine Groups",
+    "Meta Groups/Slag.md",
+    "Meta Groups/Items/Ingot.md",
+    "Meta Groups/Items/Powder.md",
+    "Meta Groups/Items",
+    "IE Multiblocks/IE Arc Furnace.md",
+    "Meta Groups/Items/Pellet.md",
+    "Stainless Steel Work Hammer.md",
+    "Images/Bronze Work Hammer Recipe.png",
+    "IG Multiblocks/Stainless Steel.md",
+    "Blocks/Chemical Engineering Block.md",
+    "Meta Groups/Abstract Processing/Mid/Mid-Late Game Processing.canvas",
+    "Meta Groups/Abstract Processing/Early/Early Game Washing.md",
+    "Meta Groups/Abstract Processing/Early/Early Game Crushing.md",
+    "Meta Groups/Abstract Processing/Mid",
+    "Meta Groups/Abstract Processing/Early",
     "Meta Groups/Abstract Processing",
-    "Meta Groups/Mineral.md",
-    "Meta Groups/Metal Oxide.md",
+    "Meta Groups/Items/Mineral.md",
+    "Meta Groups/Items/Metal Oxide.md",
     "Meta Groups/Metal Groups/Early Reverberation Furnace Processing.md",
     "Items/Hammers/IE Engineers Hammer.md",
     "Images/IE Hammer Recipe.png",
@@ -198,29 +202,12 @@
     "Items/Hammers",
     "Meta Groups/Mineral Groups/Early Iron Sources.md",
     "IE Multiblocks/IE Coke Oven.md",
-    "Meta Groups/Dirty Crushed Ore.md",
-    "Meta Groups/Crushed Ore.md",
-    "Items/Ingots/Iron Ingot.md",
-    "Items/Crushed Ore/Crushed Pyrite.md",
+    "Meta Groups/Items/Dirty Crushed Ore.md",
+    "Meta Groups/Items/Crushed Ore.md",
     "Images/Alloy Kiln Bronze Recipe.png",
-    "Items/Dirty Crushed Ore/Dirty Crushed Pyrite.md",
-    "Items/Dirty Crushed Ore/Dirty Crushed Cuprite.md",
-    "Images/Bronze Work Hammer Recipe.png",
-    "Meta Groups/Mineral Groups/Basic Mineral Groups.md",
-    "Meta Groups/Mineral Groups/Sulphide Mineral.md",
     "Meta Groups/Mineral Groups",
     "Meta Groups/Ingots",
-    "Meta Groups/Alloys/Advanced Alloys.md",
-    "Meta Groups/Alloys/Intermediate Alloys.md",
-    "Meta Groups/Alloys/Basic Alloys.md",
-    "Metals/Electrum.md",
-    "Minerals/Kaolinite.md",
     "Meta Groups/Alloys",
-    "Meta Groups",
-    "IE Multiblocks/IE Crusher.md",
-    "Slurry/Chromium",
-    "Slurry/Titanium",
-    "Slurry/Silver",
     "Images/Refractory Brick Block Recipe.png",
     "Images/Crude Bloomery Multiblock.png"
   ]

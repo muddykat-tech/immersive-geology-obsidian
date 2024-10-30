@@ -7,8 +7,8 @@
 		{"id":"37625bd3e0e67e9f","type":"file","file":"Minerals/Kaolinite.md","x":-1640,"y":-140,"width":400,"height":160},
 		{"id":"4a6b6109c5215fac","type":"file","file":"Meta Groups/Alloys/Basic Alloys.md","x":540,"y":-260,"width":400,"height":400},
 		{"id":"059d4a7e88216ba1","type":"text","text":"# Create Basic Ingots\n- [[Gold]]\n- [[Copper]]\n- [[Tin]]\n- [[Lead]]\n- [[Zinc]]","x":-570,"y":-740,"width":281,"height":260},
-		{"id":"2af328b68854380a","type":"file","file":"Meta Groups/Crushed Ore.md","x":-1000,"y":106,"width":280,"height":114},
-		{"id":"667bd8d3fc6b0dd4","type":"file","file":"Meta Groups/Abstract Processing/Early Game Refinement.canvas","x":-1320,"y":300,"width":400,"height":140},
+		{"id":"2af328b68854380a","type":"file","file":"Meta Groups/Items/Crushed Ore.md","x":-1000,"y":106,"width":280,"height":114},
+		{"id":"667bd8d3fc6b0dd4","type":"file","file":"Meta Groups/Abstract Processing/Early/Early Game Refinement.canvas","x":-1320,"y":300,"width":400,"height":140},
 		{"id":"f41c3f1290390939","type":"file","file":"Minerals/Cassiterite.md","x":-1640,"y":557,"width":400,"height":126},
 		{"id":"f2780a6f0c3b5f4f","type":"file","file":"Minerals/Cuprite.md","x":-1640,"y":65,"width":400,"height":123},
 		{"id":"7e572d64217c1981","type":"file","file":"Items/Hammers/Bronze Work Hammer.md","x":1400,"y":-260,"width":400,"height":400}

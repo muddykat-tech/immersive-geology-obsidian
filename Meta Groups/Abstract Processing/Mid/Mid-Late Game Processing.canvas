@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"d0f9c5a15a590d35","x":-1180,"y":-175,"width":400,"height":157,"type":"file","file":"Meta Groups/Items/Mineral.md"},
+		{"id":"c9aaaf11a08fe579","type":"file","file":"Meta Groups/Items/Dirty Crushed Ore.md","x":-160,"y":-155,"width":400,"height":117},
+		{"id":"5f04eb16b68849a4","type":"file","file":"IG Multiblocks/Gravity Separator.md","x":-160,"y":60,"width":400,"height":131},
+		{"id":"945e40d39b35d95c","type":"file","file":"IE Multiblocks/IE Crusher.md","x":-650,"y":-131,"width":400,"height":70},
+		{"id":"4369c239e85f40b1","type":"file","file":"Meta Groups/Items/Crushed Ore.md","x":400,"y":-158,"width":400,"height":124}
+	],
+	"edges":[
+		{"id":"e3e4a644110358fd","fromNode":"c9aaaf11a08fe579","fromSide":"bottom","toNode":"5f04eb16b68849a4","toSide":"top","label":"1x"},
+		{"id":"5e575528c3f23212","fromNode":"945e40d39b35d95c","fromSide":"right","toNode":"c9aaaf11a08fe579","toSide":"left"},
+		{"id":"a8a767eb24bb101c","fromNode":"5f04eb16b68849a4","fromSide":"right","toNode":"4369c239e85f40b1","toSide":"bottom"},
+		{"id":"9368011f93d541d8","fromNode":"d0f9c5a15a590d35","fromSide":"right","toNode":"945e40d39b35d95c","toSide":"left","label":"1x"}
+	]
+}

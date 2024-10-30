@@ -1,11 +1,37 @@
 {
 	"nodes":[
-		{"id":"bfea3318627b93e0","type":"file","file":"Fluids/Mantle Fluid.md","x":-177,"y":-60,"width":279,"height":120},
-		{"id":"19cd9b58c39e05a3","type":"file","file":"IG Multiblocks/Centrifuge.md","x":-177,"y":100,"width":355,"height":120},
 		{"id":"499c75f481f1fbc9","type":"file","file":"Fluids/Hydrochloric Acid.md","x":720,"y":-183,"width":400,"height":400},
 		{"id":"e6e2d45848e2d9e0","type":"file","file":"Fluids/Nitric Acid.md","x":280,"y":-180,"width":400,"height":400},
-		{"id":"e8ec35dfc214d2bb","type":"text","text":"Secondary Method to create Hastelloy","x":580,"y":-280,"width":250,"height":60},
-		{"id":"414bc721d8bd4c11","type":"file","file":"IG Multiblocks/Core Drill.md","x":-177,"y":-220,"width":260,"height":120}
+		{"id":"414bc721d8bd4c11","type":"file","file":"IG Multiblocks/Core Drill.md","x":-177,"y":-220,"width":260,"height":120},
+		{"id":"e8ec35dfc214d2bb","type":"text","text":"Secondary Method to create Hastelloy and Chromium","x":720,"y":-320,"width":280,"height":100},
+		{"id":"bfea3318627b93e0","type":"file","file":"Fluids/Mantle Fluid.md","x":83,"y":-400,"width":279,"height":120},
+		{"id":"19cd9b58c39e05a3","type":"file","file":"IG Multiblocks/Centrifuge.md","x":-177,"y":0,"width":355,"height":120},
+		{"id":"f29e97809299b11b","type":"file","file":"Metals/Chromium.md","x":1520,"y":240,"width":400,"height":160},
+		{"id":"05d66b6864470f00","type":"file","file":"IG Multiblocks/Trommel.md","x":1520,"y":-122,"width":400,"height":81},
+		{"id":"97ab7ab4db54f193","type":"file","file":"Meta Groups/Items/Pellet.md","x":1520,"y":-740,"width":400,"height":141},
+		{"id":"8de37e4c32ef996c","type":"file","file":"IG Multiblocks/Pelletizer.md","x":1520,"y":-840,"width":400,"height":50},
+		{"id":"44bb9214890c8bdb","type":"file","file":"Metals/Aluminium.md","x":1120,"y":-1384,"width":400,"height":102},
+		{"id":"e6ae241507ed2bc3","type":"file","file":"IG Multiblocks/Industrial Ball Mill.md","x":1120,"y":-1213,"width":400,"height":103},
+		{"id":"80acb2a0c0e6c479","type":"file","file":"Meta Groups/Items/Powder.md","x":1120,"y":-1066,"width":400,"height":156},
+		{"id":"5123560b19ed908d","type":"file","file":"Meta Groups/Items/Grit.md","x":1520,"y":-5,"width":400,"height":151},
+		{"id":"79fcb796ec52e86e","type":"file","file":"IE Multiblocks/IE Arc Furnace.md","x":1520,"y":-500,"width":400,"height":105},
+		{"id":"a23ea7edf5e5b3e3","type":"file","file":"Meta Groups/Items/Powder.md","x":1920,"y":-1066,"width":400,"height":150},
+		{"id":"ed95900248414e6f","type":"file","file":"IG Multiblocks/Industrial Ball Mill.md","x":1920,"y":-1213,"width":400,"height":103},
+		{"id":"7b7771f9987daaa2","type":"file","file":"Minerals/Chromite.md","x":1920,"y":-1402,"width":400,"height":138},
+		{"id":"76faae3d92ddb36e","type":"file","file":"Meta Groups/Slag.md","x":1520,"y":-320,"width":400,"height":122}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"4d77386d3be86f9d","fromNode":"5123560b19ed908d","fromSide":"bottom","toNode":"f29e97809299b11b","toSide":"top"},
+		{"id":"a2e467551874ae04","fromNode":"05d66b6864470f00","fromSide":"bottom","toNode":"5123560b19ed908d","toSide":"top"},
+		{"id":"296b68cc9881e982","fromNode":"76faae3d92ddb36e","fromSide":"bottom","toNode":"05d66b6864470f00","toSide":"top"},
+		{"id":"7cc8f6fd8b6042b3","fromNode":"97ab7ab4db54f193","fromSide":"bottom","toNode":"79fcb796ec52e86e","toSide":"top"},
+		{"id":"ef057b59f0e51979","fromNode":"8de37e4c32ef996c","fromSide":"bottom","toNode":"97ab7ab4db54f193","toSide":"top"},
+		{"id":"43ae8c588952b7b0","fromNode":"a23ea7edf5e5b3e3","fromSide":"left","toNode":"8de37e4c32ef996c","toSide":"top"},
+		{"id":"ac460a64b34af2ce","fromNode":"80acb2a0c0e6c479","fromSide":"right","toNode":"8de37e4c32ef996c","toSide":"top"},
+		{"id":"24e9ceddb208cade","fromNode":"44bb9214890c8bdb","fromSide":"bottom","toNode":"e6ae241507ed2bc3","toSide":"top"},
+		{"id":"4465b54ab832d7cf","fromNode":"e6ae241507ed2bc3","fromSide":"bottom","toNode":"80acb2a0c0e6c479","toSide":"top"},
+		{"id":"3a80610e3afa227b","fromNode":"79fcb796ec52e86e","fromSide":"bottom","toNode":"76faae3d92ddb36e","toSide":"top"},
+		{"id":"d123253d0f936c22","fromNode":"ed95900248414e6f","fromSide":"bottom","toNode":"a23ea7edf5e5b3e3","toSide":"top"},
+		{"id":"353231db38ea8703","fromNode":"7b7771f9987daaa2","fromSide":"bottom","toNode":"ed95900248414e6f","toSide":"top"}
+	]
 }
