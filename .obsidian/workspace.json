@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "1616cfe9b22e090a",
+        "id": "2f539287efe4a258",
         "type": "tabs",
         "children": [
           {
-            "id": "5ec98f877420d8ad",
+            "id": "fb813dd8eb163b85",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Late Game Processing.canvas",
                 "viewState": {
-                  "x": -1632.8937258396077,
-                  "y": -1681.5325178911548,
-                  "zoom": -0.8773326301587779
+                  "x": -802.1568424995029,
+                  "y": -1347.971416152244,
+                  "zoom": -0.8368367681803716
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -161,28 +161,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5ec98f877420d8ad",
+  "active": "fb813dd8eb163b85",
   "lastOpenFiles": [
     "End Game Processing.canvas",
     "Late Game Processing.canvas",
+    "Meta Groups/Overworld Processing.md",
+    "IE Multiblocks/IE Mixer.md",
+    "Meta Groups/Compound Dust.md",
+    "IG Multiblocks/Chemical Reactor.md",
     "Mid-Game Processing.canvas",
     "Early Game Processing.canvas",
+    "Meta Groups/Abstract Processing/Early/Early Game Refinement.canvas",
+    "IG Multiblocks/Centrifuge.md",
+    "IE Multiblocks/IE Coke Oven.md",
+    "Meta Groups/Slag.md",
+    "IG Multiblocks/Core Drill.md",
+    "Images/Alloy Kiln Bronze Recipe.png",
+    "Images/Bronze Work Hammer Recipe.png",
+    "Images/Crude Bloomery Multiblock.png",
+    "Images/IE Hammer Recipe.png",
+    "Metals/Stainless Steel.md",
+    "IG Multiblocks/Trommel.md",
     "Fluids/Hydrochloric Acid.md",
     "Slurry/Chromium/Chromium Nitrate.md",
     "Slurry/Chromium/Chromium Chloride.md",
-    "Meta Groups/Abstract Processing/Early/Early Game Refinement.canvas",
     "Images/Stainless Steel Work Hammer Recipe.png",
     "Meta Groups/Machine Groups/IE Machines.md",
     "Meta Groups/Machine Groups",
-    "Meta Groups/Slag.md",
     "Meta Groups/Items/Ingot.md",
     "Meta Groups/Items/Powder.md",
     "Meta Groups/Items",
-    "IE Multiblocks/IE Arc Furnace.md",
+    "IG Multiblocks/IE Arc Furnace.md",
     "Meta Groups/Items/Pellet.md",
     "Stainless Steel Work Hammer.md",
-    "Images/Bronze Work Hammer Recipe.png",
-    "IG Multiblocks/Stainless Steel.md",
     "Blocks/Chemical Engineering Block.md",
     "Meta Groups/Abstract Processing/Mid/Mid-Late Game Processing.canvas",
     "Meta Groups/Abstract Processing/Early/Early Game Washing.md",
@@ -193,22 +204,11 @@
     "Meta Groups/Items/Mineral.md",
     "Meta Groups/Items/Metal Oxide.md",
     "Meta Groups/Metal Groups/Early Reverberation Furnace Processing.md",
-    "Items/Hammers/IE Engineers Hammer.md",
-    "Images/IE Hammer Recipe.png",
-    "Items/Hammers/Stone Work Hammer.md",
     "Meta Groups/Metal Groups",
-    "Items/Dirty Crushed Ore/Dirty Crushed Cassiterite.md",
-    "Items/Hammers/Bronze Work Hammer.md",
     "Items/Hammers",
-    "Meta Groups/Mineral Groups/Early Iron Sources.md",
-    "IE Multiblocks/IE Coke Oven.md",
-    "Meta Groups/Items/Dirty Crushed Ore.md",
-    "Meta Groups/Items/Crushed Ore.md",
-    "Images/Alloy Kiln Bronze Recipe.png",
     "Meta Groups/Mineral Groups",
     "Meta Groups/Ingots",
     "Meta Groups/Alloys",
-    "Images/Refractory Brick Block Recipe.png",
-    "Images/Crude Bloomery Multiblock.png"
+    "Images/Refractory Brick Block Recipe.png"
   ]
 }

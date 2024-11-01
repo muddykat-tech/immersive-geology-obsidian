@@ -1,0 +1,1 @@
+Abstract Item for Recipes
