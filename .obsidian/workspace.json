@@ -11,17 +11,14 @@
             "id": "fb813dd8eb163b85",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Late Game Processing.canvas",
-                "viewState": {
-                  "x": -802.1568424995029,
-                  "y": -1347.971416152244,
-                  "zoom": -0.8368367681803716
-                }
+                "file": "Minerals/Sphalerite.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Late Game Processing"
+              "icon": "lucide-file",
+              "title": "Sphalerite"
             }
           }
         ]
@@ -96,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Late Game Processing.canvas",
+                "file": "Minerals/Sphalerite.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +103,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Late Game Processing"
+              "title": "Backlinks for Sphalerite"
             }
           },
           {
@@ -163,14 +160,17 @@
   },
   "active": "fb813dd8eb163b85",
   "lastOpenFiles": [
+    "Minerals/Smithsonite.md",
+    "Minerals/Thorianite.md",
+    "Minerals/Sphalerite.md",
+    "Early Game Processing.canvas",
     "End Game Processing.canvas",
     "Late Game Processing.canvas",
+    "Mid-Game Processing.canvas",
     "Meta Groups/Overworld Processing.md",
     "IE Multiblocks/IE Mixer.md",
     "Meta Groups/Compound Dust.md",
     "IG Multiblocks/Chemical Reactor.md",
-    "Mid-Game Processing.canvas",
-    "Early Game Processing.canvas",
     "Meta Groups/Abstract Processing/Early/Early Game Refinement.canvas",
     "IG Multiblocks/Centrifuge.md",
     "IE Multiblocks/IE Coke Oven.md",
@@ -202,8 +202,6 @@
     "Meta Groups/Abstract Processing/Early",
     "Meta Groups/Abstract Processing",
     "Meta Groups/Items/Mineral.md",
-    "Meta Groups/Items/Metal Oxide.md",
-    "Meta Groups/Metal Groups/Early Reverberation Furnace Processing.md",
     "Meta Groups/Metal Groups",
     "Items/Hammers",
     "Meta Groups/Mineral Groups",
