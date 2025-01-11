@@ -15,7 +15,8 @@
 		{"id":"71386524b48e41a5","type":"text","text":"# Coal","x":364,"y":-13,"width":132,"height":60},
 		{"id":"d22b99e08554b0a4","type":"text","text":"# Treated Wood","x":900,"y":-197,"width":275,"height":86},
 		{"id":"d50c298c47aebb79","type":"file","file":"Late Game Processing.canvas","x":1780,"y":-1662,"width":400,"height":400},
-		{"id":"b0f3834a04b9abb2","type":"text","text":"# Higher Yield Processing\n[[Mid-Game Processing.canvas|Mid-Game Processing]]","x":1780,"y":-1087,"width":382,"height":162}
+		{"id":"b0f3834a04b9abb2","type":"text","text":"# Higher Yield Processing\n[[Mid-Game Processing.canvas|Mid-Game Processing]]","x":1780,"y":-1087,"width":382,"height":162},
+		{"id":"52ecab4968decd32","type":"text","text":"# Mid-Game Processing","x":-1146,"y":-1820,"width":453,"height":59}
 	],
 	"edges":[
 		{"id":"6fcea2ea483a6500","fromNode":"7a82591710932724","fromSide":"left","toNode":"e5c8985b6a46b62a","toSide":"bottom","label":"Forms"},

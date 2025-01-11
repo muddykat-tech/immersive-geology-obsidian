@@ -3,7 +3,6 @@
 		{"id":"5683eae5d2dd6e81","type":"file","file":"IG Multiblocks/Crude Bloomery.md","x":-680,"y":-400,"width":500,"height":680},
 		{"id":"584a2be96e6fe406","type":"file","file":"IE Multiblocks/IE Alloy Kiln.md","x":60,"y":-185,"width":260,"height":250},
 		{"id":"e4c4081d0d25accb","type":"file","file":"Items/Hammers/Stone Work Hammer.md","x":-630,"y":420,"width":400,"height":400},
-		{"id":"6844045a91b861c7","type":"file","file":"Mid-Game Processing.canvas","x":1880,"y":-260,"width":400,"height":400},
 		{"id":"37625bd3e0e67e9f","type":"file","file":"Minerals/Kaolinite.md","x":-1640,"y":-140,"width":400,"height":160},
 		{"id":"4a6b6109c5215fac","type":"file","file":"Meta Groups/Alloys/Basic Alloys.md","x":540,"y":-260,"width":400,"height":400},
 		{"id":"059d4a7e88216ba1","type":"text","text":"# Create Basic Ingots\n- [[Gold]]\n- [[Copper]]\n- [[Tin]]\n- [[Lead]]\n- [[Zinc]]","x":-570,"y":-740,"width":281,"height":260},
@@ -11,7 +10,10 @@
 		{"id":"667bd8d3fc6b0dd4","type":"file","file":"Meta Groups/Abstract Processing/Early/Early Game Refinement.canvas","x":-1320,"y":300,"width":400,"height":140},
 		{"id":"f41c3f1290390939","type":"file","file":"Minerals/Cassiterite.md","x":-1640,"y":557,"width":400,"height":126},
 		{"id":"f2780a6f0c3b5f4f","type":"file","file":"Minerals/Cuprite.md","x":-1640,"y":65,"width":400,"height":123},
-		{"id":"7e572d64217c1981","type":"file","file":"Items/Hammers/Bronze Work Hammer.md","x":1400,"y":-260,"width":400,"height":400}
+		{"id":"7e572d64217c1981","type":"file","file":"Items/Hammers/Bronze Work Hammer.md","x":1400,"y":-260,"width":400,"height":400},
+		{"id":"6844045a91b861c7","type":"file","file":"Mid-Game Processing.canvas","x":1400,"y":283,"width":400,"height":400},
+		{"id":"4d446fdfa2d4b749","type":"text","text":"","x":1446,"y":477,"width":250,"height":60},
+		{"id":"ba0072c54ae457b1","type":"text","text":"# Early Game Processing","x":-1640,"y":-860,"width":453,"height":59}
 	],
 	"edges":[
 		{"id":"8dfbc029f2071bf0","fromNode":"5683eae5d2dd6e81","fromSide":"right","toNode":"584a2be96e6fe406","toSide":"left","label":"1 ingot out"},
@@ -20,7 +22,7 @@
 		{"id":"be6e50f39fbd1929","fromNode":"e4c4081d0d25accb","fromSide":"top","toNode":"5683eae5d2dd6e81","toSide":"bottom","label":"Used to Form"},
 		{"id":"8b07bdc6ba9d0f44","fromNode":"4a6b6109c5215fac","fromSide":"right","toNode":"7e572d64217c1981","toSide":"left","label":"Bronze is used to create Next Tier"},
 		{"id":"e40a7c402965883c","fromNode":"e4c4081d0d25accb","fromSide":"right","toNode":"584a2be96e6fe406","toSide":"bottom","label":"Used to Form"},
-		{"id":"e2eb584f4576f229","fromNode":"7e572d64217c1981","fromSide":"right","toNode":"6844045a91b861c7","toSide":"left"},
+		{"id":"e2eb584f4576f229","fromNode":"7e572d64217c1981","fromSide":"right","toNode":"6844045a91b861c7","toSide":"right","label":"Mid Game Processing"},
 		{"id":"ccf7fcbdabc6f715","fromNode":"5683eae5d2dd6e81","fromSide":"top","toNode":"059d4a7e88216ba1","toSide":"bottom"},
 		{"id":"3ee4081b005deee8","fromNode":"f41c3f1290390939","fromSide":"top","toNode":"667bd8d3fc6b0dd4","toSide":"left"},
 		{"id":"c97d359eabf6f6b3","fromNode":"f2780a6f0c3b5f4f","fromSide":"bottom","toNode":"667bd8d3fc6b0dd4","toSide":"left"},
