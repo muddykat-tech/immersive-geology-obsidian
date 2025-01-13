@@ -11,14 +11,11 @@
             "id": "fb813dd8eb163b85",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Minerals/Smithsonite.md",
-                "mode": "source",
-                "source": false
               },
-              "icon": "lucide-file",
-              "title": "Smithsonite"
+              "icon": "lucide-layout-dashboard",
+              "title": "Mid-Game Processing"
             }
           }
         ]
@@ -54,7 +51,6 @@
               "state": {
                 "query": "",
                 "matchingCase": false,
-                "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
@@ -93,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Minerals/Smithsonite.md",
+                "file": "Mid-Game Processing.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +99,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Smithsonite"
+              "title": "Backlinks for Mid-Game Processing"
             }
           },
           {
@@ -160,13 +156,14 @@
   },
   "active": "fb813dd8eb163b85",
   "lastOpenFiles": [
-    "Minerals/Sphalerite.md",
-    "Minerals/Smithsonite.md",
-    "Minerals/Thorianite.md",
+    "Pasted image 20241102152309.png",
     "Early Game Processing.canvas",
+    "Mid-Game Processing.canvas",
+    "Minerals/Smithsonite.md",
+    "Minerals/Sphalerite.md",
+    "Minerals/Thorianite.md",
     "End Game Processing.canvas",
     "Late Game Processing.canvas",
-    "Mid-Game Processing.canvas",
     "Meta Groups/Overworld Processing.md",
     "IE Multiblocks/IE Mixer.md",
     "Meta Groups/Compound Dust.md",
@@ -201,7 +198,6 @@
     "Meta Groups/Abstract Processing/Mid",
     "Meta Groups/Abstract Processing/Early",
     "Meta Groups/Abstract Processing",
-    "Meta Groups/Items/Mineral.md",
     "Meta Groups/Metal Groups",
     "Items/Hammers",
     "Meta Groups/Mineral Groups",

@@ -15,15 +15,15 @@
 		{"id":"05d66b6864470f00","type":"file","file":"IG Multiblocks/Trommel.md","x":2320,"y":123,"width":400,"height":120},
 		{"id":"b23c0b25bd6e982f","type":"file","file":"Meta Groups/Items/Powder.md","x":2720,"y":403,"width":400,"height":168},
 		{"id":"f29e97809299b11b","type":"file","file":"Metals/Chromium.md","x":2720,"y":643,"width":400,"height":160},
-		{"id":"eee788bef760e81d","x":1960,"y":405,"width":400,"height":166,"type":"file","file":"Meta Groups/Items/Powder.md"},
-		{"id":"1e79e70ff39087b4","x":1960,"y":643,"width":400,"height":107,"type":"file","file":"Minerals/Alumina.md"},
+		{"id":"eee788bef760e81d","type":"file","file":"Meta Groups/Items/Powder.md","x":1960,"y":405,"width":400,"height":166},
+		{"id":"1e79e70ff39087b4","type":"file","file":"Minerals/Alumina.md","x":1960,"y":643,"width":400,"height":107},
 		{"id":"44bb9214890c8bdb","type":"file","file":"Metals/Aluminium.md","x":1920,"y":-1481,"width":400,"height":102},
 		{"id":"e6ae241507ed2bc3","type":"file","file":"IG Multiblocks/Industrial Ball Mill.md","x":1920,"y":-1310,"width":400,"height":103},
 		{"id":"80acb2a0c0e6c479","type":"file","file":"Meta Groups/Items/Powder.md","x":1920,"y":-1163,"width":400,"height":156},
 		{"id":"a23ea7edf5e5b3e3","type":"file","file":"Meta Groups/Items/Powder.md","x":2720,"y":-1163,"width":400,"height":150},
 		{"id":"ed95900248414e6f","type":"file","file":"IG Multiblocks/Industrial Ball Mill.md","x":2720,"y":-1310,"width":400,"height":103},
-		{"id":"53ccad84c1160af2","x":2720,"y":-1554,"width":400,"height":146,"type":"file","file":"Meta Groups/Items/Metal Oxide.md"},
-		{"id":"8348d73b8932730a","x":2720,"y":-1817,"width":400,"height":200,"type":"file","file":"Metals/Chromium.md"}
+		{"id":"53ccad84c1160af2","type":"file","file":"Meta Groups/Items/Metal Oxide.md","x":2720,"y":-1554,"width":400,"height":146},
+		{"id":"8348d73b8932730a","type":"file","file":"Metals/Chromium.md","x":2720,"y":-1817,"width":400,"height":200}
 	],
 	"edges":[
 		{"id":"7cc8f6fd8b6042b3","fromNode":"97ab7ab4db54f193","fromSide":"bottom","toNode":"79fcb796ec52e86e","toSide":"top"},
