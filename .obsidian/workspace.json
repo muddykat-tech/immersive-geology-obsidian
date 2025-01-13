@@ -45,21 +45,17 @@
             "id": "d1d4188f7d02c5ab",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "End Game Processing.canvas",
-                "viewState": {
-                  "x": 2224.261194029851,
-                  "y": -388.7089552238805,
-                  "zoom": -1.104837334829613
-                }
+                "file": "Minerals/Smithsonite.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "End Game Processing"
+              "icon": "lucide-file",
+              "title": "Smithsonite"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -131,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "End Game Processing.canvas",
+                "file": "Early Game Processing.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +137,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for End Game Processing"
+              "title": "Backlinks for Early Game Processing"
             }
           },
           {
@@ -196,10 +192,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d1d4188f7d02c5ab",
+  "active": "900355eff8bb5fb4",
   "lastOpenFiles": [
-    "Late Game Processing.canvas",
+    "Minerals/Smithsonite.md",
     "End Game Processing.canvas",
+    "Late Game Processing.canvas",
     "Mid-Game Processing.canvas",
     "Early Game Processing.canvas",
     "Minerals/Ullmannite.md",
