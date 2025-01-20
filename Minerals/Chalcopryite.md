@@ -3,6 +3,8 @@ Secondary Source for [[Iron]]
 
 [[Slag]] Can be pulverised into [[Powdered Slag]], Which can then be dissolved in [[Sulfuric Acid]] in the [[Chemical Reactor]] to produce [[Cloudy Mineral Slurry]] which is then processed in the [[Centrifuge]] to create [[Clear Mineral Slurry]] and a Platinum Group Metal [[Residue]] 
 
+The [[Powdered Slag]] can be used in the [[Gravity Separator]] to create [[Copper]] [[Metal Oxide]] with a high chance to create [[Iron]] [[Metal Oxide]] This will however prevent the gathering of any PGM materials.
+
 This [[Clear Mineral Slurry]] can then be processed in the [[Crystallizer]] to create [[Copper]] [[Crystal]] and [[Iron Sulfate]] Which can then be processed again in the [[Crystallizer]] to create [[Iron]] [[Crystal]] and [[Sulfuric Acid]] 
 
 The PGM can then be processed further in the [[Chemical Reactor]] with [[Sodium Hydroxide]] to create [[Sodium Osmate]] and [[Platinum]] [[Compound Dust]] 
