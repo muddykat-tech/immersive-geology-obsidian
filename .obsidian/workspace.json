@@ -4,21 +4,42 @@
     "type": "split",
     "children": [
       {
-        "id": "2f539287efe4a258",
+        "id": "5b9c85b3964005e5",
         "type": "tabs",
         "children": [
           {
-            "id": "fb813dd8eb163b85",
+            "id": "2b385033dfdc719d",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
+                "file": "End Game Processing.canvas",
+                "viewState": {
+                  "x": 1700,
+                  "y": -507,
+                  "zoom": -1.1026856639745641
+                }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Mid-Game Processing"
+              "title": "End Game Processing"
+            }
+          },
+          {
+            "id": "9663f152c315a82b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Minerals/Chalcopryite.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chalcopryite"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mid-Game Processing.canvas",
+                "file": "Minerals/Chalcopryite.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +120,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Mid-Game Processing"
+              "title": "Backlinks for Chalcopryite"
             }
           },
           {
@@ -154,20 +175,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fb813dd8eb163b85",
+  "active": "9663f152c315a82b",
   "lastOpenFiles": [
+    "Meta Groups/Compound Dust.md",
+    "End Game Processing.canvas",
+    "Minerals/Chalcopryite.md",
+    "IG Multiblocks/Chemical Reactor.md",
+    "Fluids/Sulfuric Acid.md",
+    "Iron Sulfate.md",
+    "Residue.md",
+    "Mid-Game Processing.canvas",
+    "Mineral Slurry.md",
+    "Late Game Processing.canvas",
     "Pasted image 20241102152309.png",
     "Early Game Processing.canvas",
-    "Mid-Game Processing.canvas",
     "Minerals/Smithsonite.md",
     "Minerals/Sphalerite.md",
     "Minerals/Thorianite.md",
-    "End Game Processing.canvas",
-    "Late Game Processing.canvas",
     "Meta Groups/Overworld Processing.md",
     "IE Multiblocks/IE Mixer.md",
-    "Meta Groups/Compound Dust.md",
-    "IG Multiblocks/Chemical Reactor.md",
     "Meta Groups/Abstract Processing/Early/Early Game Refinement.canvas",
     "IG Multiblocks/Centrifuge.md",
     "IE Multiblocks/IE Coke Oven.md",
@@ -189,12 +215,7 @@
     "Meta Groups/Items/Powder.md",
     "Meta Groups/Items",
     "IG Multiblocks/IE Arc Furnace.md",
-    "Meta Groups/Items/Pellet.md",
-    "Stainless Steel Work Hammer.md",
-    "Blocks/Chemical Engineering Block.md",
     "Meta Groups/Abstract Processing/Mid/Mid-Late Game Processing.canvas",
-    "Meta Groups/Abstract Processing/Early/Early Game Washing.md",
-    "Meta Groups/Abstract Processing/Early/Early Game Crushing.md",
     "Meta Groups/Abstract Processing/Mid",
     "Meta Groups/Abstract Processing/Early",
     "Meta Groups/Abstract Processing",

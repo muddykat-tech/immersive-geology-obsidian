@@ -2,10 +2,6 @@
 	"nodes":[
 		{"id":"499c75f481f1fbc9","type":"file","file":"Fluids/Hydrochloric Acid.md","x":720,"y":-183,"width":400,"height":400},
 		{"id":"e6e2d45848e2d9e0","type":"file","file":"Fluids/Nitric Acid.md","x":280,"y":-180,"width":400,"height":400},
-		{"id":"414bc721d8bd4c11","type":"file","file":"IG Multiblocks/Core Drill.md","x":-177,"y":-220,"width":260,"height":120},
-		{"id":"e8ec35dfc214d2bb","type":"text","text":"Secondary Method to create Hastelloy and Chromium","x":720,"y":-320,"width":280,"height":100},
-		{"id":"bfea3318627b93e0","type":"file","file":"Fluids/Mantle Fluid.md","x":83,"y":-400,"width":279,"height":120},
-		{"id":"19cd9b58c39e05a3","type":"file","file":"IG Multiblocks/Centrifuge.md","x":-177,"y":0,"width":355,"height":120},
 		{"id":"8de37e4c32ef996c","type":"file","file":"IG Multiblocks/Pelletizer.md","x":2320,"y":-937,"width":400,"height":50},
 		{"id":"97ab7ab4db54f193","type":"file","file":"Meta Groups/Items/Pellet.md","x":2320,"y":-837,"width":400,"height":141},
 		{"id":"79fcb796ec52e86e","type":"file","file":"IG Multiblocks/IE Arc Furnace.md","x":2320,"y":-617,"width":400,"height":105},
@@ -23,7 +19,11 @@
 		{"id":"a23ea7edf5e5b3e3","type":"file","file":"Meta Groups/Items/Powder.md","x":2720,"y":-1163,"width":400,"height":150},
 		{"id":"ed95900248414e6f","type":"file","file":"IG Multiblocks/Industrial Ball Mill.md","x":2720,"y":-1310,"width":400,"height":103},
 		{"id":"53ccad84c1160af2","type":"file","file":"Meta Groups/Items/Metal Oxide.md","x":2720,"y":-1554,"width":400,"height":146},
-		{"id":"8348d73b8932730a","type":"file","file":"Metals/Chromium.md","x":2720,"y":-1817,"width":400,"height":200}
+		{"id":"8348d73b8932730a","type":"file","file":"Metals/Chromium.md","x":2720,"y":-1817,"width":400,"height":200},
+		{"id":"19cd9b58c39e05a3","type":"file","file":"IG Multiblocks/Centrifuge.md","x":720,"y":-652,"width":377,"height":280},
+		{"id":"e8ec35dfc214d2bb","type":"text","text":"Secondary Method to create Hastelloy and Chromium","x":720,"y":-340,"width":280,"height":100},
+		{"id":"bfea3318627b93e0","type":"file","file":"Fluids/Mantle Fluid.md","x":280,"y":-350,"width":279,"height":120},
+		{"id":"414bc721d8bd4c11","type":"file","file":"IG Multiblocks/Core Drill.md","x":280,"y":-540,"width":260,"height":120}
 	],
 	"edges":[
 		{"id":"7cc8f6fd8b6042b3","fromNode":"97ab7ab4db54f193","fromSide":"bottom","toNode":"79fcb796ec52e86e","toSide":"top"},
